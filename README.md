@@ -3,8 +3,8 @@
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.labenu.com.br/"><i>Labenu</i></a> e faço Ciências da Computação no Descomplica <a href="https://descomplica.com.br/faculdade/"><i>Descomplica</i></a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/devoliveira61/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/devoliveira61/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devoliveira61)](https://github.com/devoliveira61/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devoliveira61)](https://github.com/devoliveira61/github-readme-stats)
 
 
 <div align="center" valign="top"><br>
