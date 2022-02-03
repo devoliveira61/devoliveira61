@@ -3,6 +3,9 @@
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.labenu.com.br/"><i>Labenu</i></a> e faço Ciências da Computação no Descomplica <a href="https://descomplica.com.br/faculdade/"><i>Descomplica</i></a>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdoliveira61&show_icons=true&theme=radical)
+
+
 
 <div align="center" valign="top"><br>
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
