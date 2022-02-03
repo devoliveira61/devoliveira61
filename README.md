@@ -3,7 +3,8 @@
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.labenu.com.br/"><i>Labenu</i></a> e faço Ciências da Computação no Descomplica <a href="https://descomplica.com.br/faculdade/"><i>Descomplica</i></a>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devdoliveira61&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devdoliveira61=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
