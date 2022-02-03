@@ -1,12 +1,12 @@
 <div>
-  <h1 align="center">Olá tudo bem? meu nome é Daniel😃️</h1>
+  <h1 align="center">Olá tudo bem? meu nome é Daniel 😃️</h1>
   <p align="center">Estudo Desenvolvimento Web na <a href="https://www.labenu.com.br/"><i>Labenu</i></a> e faço Ciências da Computação no Descomplica <a href="https://descomplica.com.br/faculdade/"><i>Descomplica</i></a>
 </div>
 
 <div align="center">
   <a href="https://github.com/devdoliveira61">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devdoliveira61&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devdoliveira61&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
