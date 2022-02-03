@@ -4,7 +4,7 @@
 </div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devoliveira61)](https://github.com/devoliveira61/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devoliveira61)](https://github.com/devoliveira61/github-readme-stats)
+
 
 
 <div align="center" valign="top"><br>
