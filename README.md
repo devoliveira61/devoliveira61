@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá tudo bem? meu nome é Daniel 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.labenu.com.br/"><i>Labenu</i></a> e faço Ciências da Computação no Descomplica <a href="https://descomplica.com.br/faculdade/"><i>Descomplica</i></a>
+  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.labenu.com.br/"><strong>Labenu</strong></a> e faço Ciências da Computação no Descomplica <a href="https://descomplica.com.br/faculdade/"><strong>Descomplica</strong></a>
 </div>
 
 <div align="center">
