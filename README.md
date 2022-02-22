@@ -1,25 +1,26 @@
-<div>
-  <h1 align="center">Olá tudo bem? meu nome é Daniel 😃️</h1>
-  <p align="center">Estudo Desenvolvimento Web na <a href="https://www.labenu.com.br/"><strong>Labenu</strong></a> e faço Ciências da Computação no Descomplica <a href="https://descomplica.com.br/faculdade/"><strong>Descomplica</strong></a>
-</div>
+# Olá, tudo bom? 👋
 
-<div align="center">
-  <a href="https://github.com/devoliveira61">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devoliveira61&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devoliveira61&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+Meu nome é Daniel, tenho 22 anos atualmente e sou apaixonado por tecnologia, sempre estou estudando mais e me atualizando. Atualmente estou estudando na Labenu na Turma Integral Web Fullstack, estou no primeiro módulo.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devoliveira61&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
+## 🌱 Atualmente estou aprendendo
+
+- HTML 5: Excelente semântica e Acessibilidade.
+- CSS 3: Novas tecnologias para responsividade, posicionamento e excelente experiência de usuário.
+- JavaScript: Uma boa sintaxe, manipulação de DOM.
+- TypeScript Superset de JavaScript que ajuda a eliminar erros e escrever melhor.
+- GitHub: Criação e manutenção de repos, assim como trabalho em equipe.
+
+## 📚 Ainda quero aprender
+
+- Front-end: React.js e suas tecnologias
+- Back-end: Construção de APIs, NodeJS e Bancos de Dados
+
+## 📫 Como entrar em contato comigo?
+
+- [LinkedIn](https://www.linkedin.com/in/devdoliveira061/)
+- [Email](mailto:devdoliveiradd@gmail.com)
 
 
-
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-</div><br>
