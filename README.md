@@ -2,9 +2,6 @@
 
 Meu nome é Daniel, tenho 22 anos atualmente e sou apaixonado por tecnologia, sempre estou estudando mais e me atualizando. Atualmente estou estudando na Labenu na Turma Integral Web Fullstack, estou no primeiro módulo e também faço Ciências da Computação, estou no primeiro semestre.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devoliveira61&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 🌱 Atualmente estou aprendendo
 
 - HTML 5: Excelente semântica e Acessibilidade.
