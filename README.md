@@ -17,7 +17,7 @@ Meu nome é Daniel, tenho 22 anos atualmente e sou apaixonado por tecnologia, se
 
 ## 📫 Como entrar em contato comigo?
 
-- [LinkedIn](https://www.linkedin.com/in/devdoliveira061/)
+- [LinkedIn](https://www.linkedin.com/in/daniel-oliveira-181b37232/)
 - [Email](mailto:devdoliveiradd@gmail.com)
 
 
