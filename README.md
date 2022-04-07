@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/daniel-oliveira-181b37232/" target="_blank">Daniel Oliveira</a> 😃️</h1>
-  <p align="center">Atualmente estou estudando React e me aprofundando no que é fundamental para ser um bom Desenvolvedor. Também faço Ciências da Computação na faculdade <a href="https://descomplica.com.br/faculdade/" target="_blank">Descomplica</a> e compartilho meus conhecimentos no meu canal do <a href="https://www.youtube.com/channel/UChzdsgHrfo8BgoKaNN4VJZA" target="_blank">YouTube</a> Tenho muito interesse em um Estágio em que especificamente que eu utilize o que eu já sei, para assim aperfeiçoar e aprender mais.
+  <p align="center">Atualmente estou estudando Web Fullstack na Labenu e me aprofundando no que é fundamental para ser um bom Desenvolvedor. Também faço Ciências da Computação na faculdade <a href="https://descomplica.com.br/faculdade/" target="_blank">Descomplica</a> e compartilho meus conhecimentos no meu canal do <a href="https://www.youtube.com/channel/UChzdsgHrfo8BgoKaNN4VJZA" target="_blank">YouTube</a> Tenho muito interesse em um Estágio em que especificamente que eu utilize o que eu já sei, para assim aperfeiçoar e aprender mais.
 
 <div align="center">
   <a href="https://github.com/devoliveira61">
