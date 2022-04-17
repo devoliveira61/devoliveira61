@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/daniel-oliveira-181b37232/" target="_blank">Daniel Oliveira</a> 😃️</h1>
+  <h1 align="center">Hey how's it going? I'm <a href="https://www.linkedin.com/in/daniel-oliveira-181b37232/" target="_blank">Daniel Oliveira</a> 😃️</h1>
 <p align="center">I am currently studying Web Front-end and delving into what is essential to be a good developer. I also study Computer Science at Estácio College and share my knowledge on my <a href="https://www.youtube.com/channel/UChzdsgHrfo8BgoKaNN4VJZA">YouTube channel</a>. I am very interested in an Internship in which I specifically use what I already know, in order to improve and learn more.</p>
 
 <div align="center">
